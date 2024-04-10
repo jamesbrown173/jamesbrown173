@@ -1,6 +1,6 @@
 <details>
 <summary>
- Hi there! Click here to find out more about me ...
+ Find out more about me ...
 </summary>
   
 ## Quick Overview
