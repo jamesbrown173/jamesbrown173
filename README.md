@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm a web developer from the UK, hacking things online.
+
+<details>
+<summary>
+  More about me...
+</summary>
+  
+</details>
+
+
 <!--
 **jamesbrown173/jamesbrown173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
