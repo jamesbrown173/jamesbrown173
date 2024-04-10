@@ -1,6 +1,6 @@
 <details>
 <summary>
- Hi there, I'm James 👋. Click here to find out more about me ...
+ Hi there! Click here to find out more about me ...
 </summary>
   
 ## Quick Overview
